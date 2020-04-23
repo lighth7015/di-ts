@@ -5,7 +5,7 @@
     "moduleResolution": "node",
     "experimentalDecorators": true ,
     "emitDecoratorMetadata": true,
-    "outDir": "./dist",
+    "outDir": ".",
     "declaration": true,
     "types": [
       "node", "mocha", "chai"
