@@ -5,6 +5,7 @@
     "experimentalDecorators": true ,
     "emitDecoratorMetadata": true,
     "outDir": "./dist",
+    "declaration": true,
     "types": [
       "node", "mocha", "chai"
     ]
