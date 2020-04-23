@@ -1,6 +1,6 @@
 {
   "name": "di-ts",
-  "version": "0.0.1-rev4",
+  "version": "0.0.2",
   "description": "Basic DI implementation in TS, see https://nehalist.io/dependency-injection-in-typescript/",
   "private": true,
   "author": {
